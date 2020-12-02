@@ -1,0 +1,22 @@
+{
+  "name": "fyyur",
+  "version": "1.0.0",
+  "description": "Fyyur -----",
+  "main": "app.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zZMathSP/Fyyur.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zZMathSP/Fyyur/issues"
+  },
+  "homepage": "https://github.com/zZMathSP/Fyyur#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
